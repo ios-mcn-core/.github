@@ -1,7 +1,7 @@
 ---
-Name: IOS MCN Access Request Template
-About: Access Request 
- 
+name: IOS MCN Access Request Template
+about: Access Request Template for IOS MCN github projects unless specified
+  in the respective repo
 title: 'Access Request'
 labels: ''
 assignees: ''
