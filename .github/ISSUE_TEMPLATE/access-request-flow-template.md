@@ -12,5 +12,5 @@ assignees: ''
 
 | Project | Repo URL |Team Memeber Name | GITHUB USER ID |Access Level |
 |--|--|--|--|--|
-|CORE|CazeLabs/IISc/IITD/C-DAC|xxx|xxx|Read/Write/Maintain|
+| CORE | CazeLabs/IISc/IITD/C-DAC/XXX | xxx | xxx | Read/Write/Maintain |
 
